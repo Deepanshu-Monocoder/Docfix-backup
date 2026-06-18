@@ -13,5 +13,5 @@ Version 3 with portfolio changes included
 <tr>
 <td><img src="docfix-page.png" width="700"></td>
 <td><img src="docfix-desktop.png" width="200"></td>
-</tr>
+</tr> 
 </table>
